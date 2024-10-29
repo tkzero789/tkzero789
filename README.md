@@ -1,16 +1,13 @@
-## Hi there 👋
+## Thinh Tran 👋
 
-<!--
-**tkzero789/tkzero789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🎓 Bachelor of Science in Information Science
+#### 🌐 Portfolio: [thinhtran.dev](https://www.thinhtran.dev/)
 
-Here are some ideas to get you started:
+## About Me
+I'm a recent graduate with a Bachelor of Science in Information Science. I have a passion for building responsive, user-focused applications, and I'm constantly exploring new technologies to improve my skills and create impactful digital solutions. I specialize in full-stack development, leveraging various modern technologies to build scalable and high-performance applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Technologies**: React, Next.js, Node.js, Redux, Framer Motion, Sass, Tailwind CSS, Bootstrap, Material UI, shadcn/ui
+- **Database**: PostgreSQL, MySQL, MongoDB, AWS S3, Drizzle ORM
+- **Developer Tools**: Github, VS Code, Cursor, Jest, Jira, Figma
